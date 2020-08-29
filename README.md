@@ -70,4 +70,4 @@ and LATITUDE. The same analogy is also considered for the columns STATUS, INCDAT
 ST_COLDESC, PEDCYLCOUNT, HITPARKEDCAR, SEVERITYDESC, ADDRTYPE, and PEDCOUNT. The 10 features selected at the end of this step are listed in Table 1.
 
 
-
+T.PNG

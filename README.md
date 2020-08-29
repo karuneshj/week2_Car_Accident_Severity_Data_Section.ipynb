@@ -69,15 +69,5 @@ a more precise description of the places where the accident occurred. For more c
 and LATITUDE. The same analogy is also considered for the columns STATUS, INCDATE, INCDTTM, SDOT_COLDESC, PEDROWNOTGRNT, 
 ST_COLDESC, PEDCYLCOUNT, HITPARKEDCAR, SEVERITYDESC, ADDRTYPE, and PEDCOUNT. The 10 features selected at the end of this step are listed in Table 1.
 
-Table 1 - List of features being selected in the feature selection
-ID 	Feature 	      Description
-1 	LONGITUDE 	    longitude
-2 	LATITUDE 	      latitude
-3 	PERSONCOUNT 	  total number of people involved in the collision
-4 	VEHCOUNT 	      the number of vehicles involved in the collision
-5 	JUNCTIONTYPE 	  category of junction at which collision took place
-6 	INATTENTIONIND 	whether or not collision was due to inattention
-7 	WEATHER         a description of the weather conditions durring the time of the collision
-8 	ROADCOND 	      the condition of the road during the collision
-9 	LIGHTCOND     	the light conditions during the collision.
-10 	SPEEDING       	whether or not speeding was a factor in the collision
+
+
